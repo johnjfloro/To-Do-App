@@ -1,3 +1,5 @@
+FILEPATH = "todos.txt"
+
 def get_todos(filepath="todos.txt"):
     """Read & return list"""
     with open(filepath, 'r') as file_local:

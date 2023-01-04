@@ -15,3 +15,5 @@ first
 autos
 instance
 knuckle
+HeeHaw
+Hawk
